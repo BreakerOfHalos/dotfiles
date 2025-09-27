@@ -1,6 +1,6 @@
 format = """
 [░▒▓](#a3aed2)\
-[ '\udb83\udf2a' ](bg:#a3aed2 fg:#090c0c)\
+[██](bg:#a3aed2 fg:#090c0c)\
 [](bg:#769ff0 fg:#a3aed2)\
 $directory\
 [](fg:#769ff0 bg:#394260)\
@@ -23,10 +23,10 @@ truncation_length = 3
 truncation_symbol = "…/"
 
 [directory.substitutions]
-"Documents" = "\udb85\udd17 "
-"Downloads" = "\uf019 "
-"Music" = "\udb81\udf5a "
-"Pictures" = "\uf03e "
+"Documents" = "󰲂 "
+"Downloads" = "󰉍 "
+"Music" = "󱍙 "
+"Pictures" = "󰉏 "
 
 [git_branch]
 symbol = ""
